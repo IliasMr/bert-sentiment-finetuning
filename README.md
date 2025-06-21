@@ -1,6 +1,3 @@
-# Fine-Tuning BERT and DistilBERT models
-
-
 ## About
 This project is about developing a sentiment classifier by fine-tuning two HuggingFace models:
 - the pretrained model **BERT**
